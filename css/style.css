@@ -570,3 +570,9 @@ h6,
 .sticky-top.navbar-dark .navbar-brand img {
     filter: none;
 }
+
+@media (max-width: 991.98px) {
+    .navbar-dark .navbar-brand img {
+        filter: none;
+    }
+}
